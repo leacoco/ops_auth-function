@@ -1,0 +1,10 @@
+{
+    "Parameters": {
+    },
+    "Tags": {
+        "service": "auth-function",
+        "team": "si",
+        "vertical": "auth",
+        "environment": "nonlive"
+    }
+}
